@@ -20,11 +20,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/dataset_visualization.jpg "Visualization"
-[image4]: ./internet signs/sign1.jpg "Traffic Sign 1"
-[image5]: ./internet signs/sign2.jpg "Traffic Sign 2"
-[image6]: ./internet signs/sign3.jpg "Traffic Sign 3"
-[image7]: ./internet signs/sign4.jpg "Traffic Sign 4"
-[image8]: ./internet signs/sign5.jpg "Traffic Sign 5"
+[image4]: ./internet%20signs/sign1.jpg "Traffic Sign 1"
+[image5]: ./internet%20signs/sign2.jpg "Traffic Sign 2"
+[image6]: ./internet%20signs/sign3.jpg "Traffic Sign 3"
+[image7]: ./internet%20signs/sign4.jpg "Traffic Sign 4"
+[image8]: ./internet%20signs/sign5.jpg "Traffic Sign 5"
 [image9]: ./examples/model_results.jpg "model results"
 
 ## Rubric Points
@@ -32,10 +32,6 @@ The goals / steps of this project are the following:
 
 ---
 ### Writeup / README
-
-#### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
-
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
